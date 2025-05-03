@@ -124,13 +124,26 @@ pip install keras tensorflow pandas numpy hyperopt mlflow scikit-learn
 
 ---
 
+
+
 ## 🧠 Model Registry
 
 * After the tuning process, the best model is saved.
 * You can register this model in MLflow for deployment or comparison.
 * Navigate to the MLflow UI to view, compare, and manage runs.
 
+  
+
 ---
+### Experiment Dashboard
+![MLflow Experiment](images/model_tracking.png)
+
+### Comparison of different runs
+![MLflow Metrics](images/model_comparison.png)
+
+### Model Registry
+![MLflow Model](images/model_registry.png)
+
 
 ## 📌 Notes
 * This code's main purpose is to **understand mlflow ui, model tracking, comparison and registry**
