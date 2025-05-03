@@ -149,8 +149,8 @@ pip install keras tensorflow pandas numpy hyperopt mlflow scikit-learn
 
 ## 🧑‍💻 Author
 
-Developed for educational purposes with an emphasis on practical ML pipeline integration.
+*  Developed for educational purposes with an emphasis on practical ML pipeline integration.
 
-```
+
 
 
