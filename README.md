@@ -39,6 +39,10 @@ The dataset is sourced from the UCI Machine Learning Repository:
 - Feature normalization is applied based on training data statistics.
 
 ---
+## 📌📌📌📌 Notes 📌📌📌📌
+* This code's main purpose is to **understand mlflow ui, model tracking, comparison and registry**
+* The model uses a basic architecture and can be further improved.
+---
 
 ### 2. Model Architecture
 
@@ -145,9 +149,7 @@ pip install keras tensorflow pandas numpy hyperopt mlflow scikit-learn
 ![MLflow Model](images/model_registry.png)
 
 
-## 📌 Notes
-* This code's main purpose is to **understand mlflow ui, model tracking, comparison and registry**
-* The model uses a basic architecture and can be further improved.
+
 
 
 ---
