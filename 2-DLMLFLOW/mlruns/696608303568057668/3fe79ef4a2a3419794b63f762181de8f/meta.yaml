@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Masters/Upskil/MLOps_DS/MLFlow/MLFlowStarter/2-DLMLFLOW/mlruns/696608303568057668/3fe79ef4a2a3419794b63f762181de8f/artifacts
+end_time: 1746258213216
+entry_point_name: ''
+experiment_id: '696608303568057668'
+lifecycle_stage: active
+run_id: 3fe79ef4a2a3419794b63f762181de8f
+run_name: amusing-yak-734
+run_uuid: 3fe79ef4a2a3419794b63f762181de8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746258174792
+status: 3
+tags: []
+user_id: jowin

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746258622249
+current_stage: None
+description: ''
+last_updated_timestamp: 1746258622249
+name: finalmodel
+run_id: 6952a8674c2241caa36369188f0a34a6
+run_link: ''
+source: file:///d:/Masters/Upskil/MLOps_DS/MLFlow/MLFlowStarter/2-DLMLFLOW/mlruns/696608303568057668/6952a8674c2241caa36369188f0a34a6/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/Masters/Upskil/MLOps_DS/MLFlow/MLFlowStarter/2-DLMLFLOW/mlruns/696608303568057668/6952a8674c2241caa36369188f0a34a6/artifacts/model
+user_id: null
+version: 1
